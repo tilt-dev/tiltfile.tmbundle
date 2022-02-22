@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>contactEmailRot13</key>
+		<string>uv@gvyg.qri</string>
+		<key>contactName</key>
+		<string>Tilt Dev</string>
+		<key>description</key>
+		<string>A Tiltfile configures Tilt (local microservice development) and is written in Starlark, a simplified dialect of Python.</string>
+		<key>name</key>
+		<string>Tiltfile</string>
+		<key>uuid</key>
+		<string>0588CD2B-5A7E-41BD-911E-D664383121EC</string>
+	</dict>
+</plist>
